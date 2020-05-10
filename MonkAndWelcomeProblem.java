@@ -23,7 +23,7 @@ class MonkAndWelcomeProblem{
             sum[i]=firstInts[i]+secondInts[i];
         }
 
-        System.out.println(Arrays.toString(sum));
+        System.out.println(sum);
         
     }
 }
