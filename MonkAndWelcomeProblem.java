@@ -22,8 +22,10 @@ class MonkAndWelcomeProblem{
         for(int i=0;i<val;i++){
             sum[i]=firstInts[i]+secondInts[i];
         }
-
-        System.out.println(sum);
+         for(int i=0;i<val;i++){
+              System.out.println(sum[i]+" ");
+         }
+       
         
     }
 }
