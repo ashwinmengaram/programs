@@ -26,6 +26,6 @@ class MonkAndWelcomeProblem{
               System.out.println(sum[i]+" ");
          }
        
-        
+         scanner.close();
     }
 }

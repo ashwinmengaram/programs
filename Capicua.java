@@ -14,5 +14,6 @@ public class Capicua {
                 System.out.println("NO");
             }
         }
+        scanner.close();
     }
 }
